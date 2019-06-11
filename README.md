@@ -2,6 +2,7 @@
 Respositorio que contiene el codigo backend de Arkanext
 
 ##Struture
+
    ***app**    (Code for ec2 aws, this code run in instances)
    
    ***lambdas** (Code for lambdas aws, this code is called from 
